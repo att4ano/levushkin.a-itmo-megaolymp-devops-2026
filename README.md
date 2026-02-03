@@ -4,3 +4,5 @@
 sudo groupadd -g 1002 admins
 
 Добавил через файл /etc/sudoers группу admins, чтобы можно было использовать пользователям из этой группы команды без sudo
+
+Создал пользователей через sudo adduser developer1, sudo adduser admin1
