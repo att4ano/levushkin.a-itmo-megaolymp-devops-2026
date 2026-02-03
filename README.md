@@ -5,4 +5,12 @@ sudo groupadd -g 1002 admins
 
 Добавил через файл /etc/sudoers группу admins, чтобы можно было использовать пользователям из этой группы команды без sudo
 
-Создал пользователей через sudo adduser developer1, sudo adduser admin1
+Создал пользователей через: sudo adduser developer1, sudo adduser admin1
+
+Добавил пользователя в группу к админу
+sudo usermod -a -G admins admin1
+
+Добавил пользователя в группу к разработчикам
+sudo usermod -a -G developers developer1
+
+Добавил админа в группу docker: sudo usermod -a -G docker admin1
