@@ -25,5 +25,22 @@ sudo apt update
 sudo apt install docker.io
 sudo apt install docker-compose
 
+```
+version: "2"
+
+services:
+  nexus:
+    image: sonatype/nexus
+    volumes:
+      - "nexus-data:/sonatype-work"
+    ports:
+      - "8081:8081"
+  
+volumes:
+  nexus-data: {}
+```
+
+<img width="1223" height="546" alt="image" src="https://github.com/user-attachments/assets/f5d3afd8-7c96-4da0-b568-5026c95204a7" />
+
 Добавил в автозапуск docker через: sudo systemctl enable docker
 
