@@ -51,4 +51,10 @@ volumes:
 <img width="1322" height="820" alt="image" src="https://github.com/user-attachments/assets/57a75240-53f3-4997-9156-97cc8c2268b5" />
 
 
+Поменяем пароль через следующуу команду
 
+<img width="1060" height="46" alt="image" src="https://github.com/user-attachments/assets/db783bba-ead2-483b-95d9-e4c822d710f8" />
+
+Получаем:
+
+<img width="1312" height="788" alt="image" src="https://github.com/user-attachments/assets/f70506ec-fc22-4f5f-ac3b-8e2f9fcf3a00" />
