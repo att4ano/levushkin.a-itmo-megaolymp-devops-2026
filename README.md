@@ -73,3 +73,7 @@ volumes:
 
 <img width="1239" height="607" alt="image" src="https://github.com/user-attachments/assets/3de1608b-93e5-4640-a4e4-463e976cc500" />
 
+Запустил Grafana
+
+<img width="1324" height="814" alt="image" src="https://github.com/user-attachments/assets/f3168851-c2d5-4047-b2bb-c489d0315e09" />
+
