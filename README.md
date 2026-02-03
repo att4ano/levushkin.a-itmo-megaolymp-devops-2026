@@ -32,7 +32,7 @@ version: "2"
 
 services:
   nexus:
-    image: sonatype/nexus
+    image: sonatype/nexus3
     volumes:
       - "nexus-data:/sonatype-work"
     ports:
@@ -43,6 +43,9 @@ volumes:
 ```
 
 <img width="1223" height="546" alt="image" src="https://github.com/user-attachments/assets/f5d3afd8-7c96-4da0-b568-5026c95204a7" />
+
+<img width="1220" height="701" alt="image" src="https://github.com/user-attachments/assets/4bb28519-e604-4ef6-9cc4-472420bdd072" />
+
 
 
 
