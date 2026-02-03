@@ -58,3 +58,10 @@ volumes:
 Получаем:
 
 <img width="1312" height="788" alt="image" src="https://github.com/user-attachments/assets/f70506ec-fc22-4f5f-ac3b-8e2f9fcf3a00" />
+
+Настраиваем само проксирование
+
+<img width="1050" height="499" alt="image" src="https://github.com/user-attachments/assets/6302447c-f417-4f50-b6f7-67728a7eb19a" />
+
+<img width="1025" height="319" alt="image" src="https://github.com/user-attachments/assets/d3cdd057-0f77-49a5-924e-51e0278430f6" />
+
