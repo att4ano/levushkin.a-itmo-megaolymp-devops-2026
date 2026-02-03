@@ -24,3 +24,6 @@ sudo usermod -a -G developers developer1
 sudo apt update
 sudo apt install docker.io
 sudo apt install docker-compose
+
+Добавил в автозапуск docker через: sudo systemctl enable docker
+
