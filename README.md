@@ -25,6 +25,8 @@ sudo apt update
 sudo apt install docker.io
 sudo apt install docker-compose
 
+Добавил в автозапуск docker через: sudo systemctl enable docker
+
 ```
 version: "2"
 
@@ -42,5 +44,5 @@ volumes:
 
 <img width="1223" height="546" alt="image" src="https://github.com/user-attachments/assets/f5d3afd8-7c96-4da0-b568-5026c95204a7" />
 
-Добавил в автозапуск docker через: sudo systemctl enable docker
+
 
